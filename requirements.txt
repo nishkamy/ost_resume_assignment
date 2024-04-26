@@ -1,0 +1,9 @@
+Flask
+pandas
+PyPDF2
+python-docx
+docx2txt
+docx
+Gunicorn
+openpyxl
+
